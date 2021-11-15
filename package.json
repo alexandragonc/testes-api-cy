@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "cypress-multi-reporters": "^1.5.0",
+    "faker": "^5.5.3",
     "joi": "^17.4.2",
     "mocha": "^9.1.0",
     "mochawesome": "^6.2.2",
